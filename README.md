@@ -8,4 +8,7 @@ Assignment can be classified into 3 different subsections including Model, Contr
   <img width="600" height="500" src="https://github.com/stevens34400/Text_RPG_Game/blob/master/images/UML_design.png">
 </p>
 
-## Java's Swing GUI
+## Sample Run of Game
+<p align="center">
+  <img width="600" height="500" src="https://github.com/stevens34400/Text_RPG_Game/blob/master/images/sample_run.gif">
+</p>
