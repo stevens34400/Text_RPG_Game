@@ -1,0 +1,7 @@
+#Output folder
+out/
+
+#Intellij
+.idea/
+
+*.iml
